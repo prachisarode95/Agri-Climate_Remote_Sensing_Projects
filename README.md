@@ -24,6 +24,10 @@ This repository features a collection of remote sensing and machine learning pro
 - **Impact:** Promotes urban renewable energy planning and carbon offset estimation.
 - **Tech Stack:** QGIS, PyQGIS, DSM, Model Builder, vector-raster analysis.
 
+### 5. Water Use Efficiency Mapping for Rice Fields
+- **Goal**: Monitor evapotranspiration or soil moisture variability using NDVI, NDWI, and SAR time-series data to infer water use efficiency trends in rice fields.
+- **Impact**: Improves irrigation and water management by identifying fields with inefficient water use, aligning with MittiLabs’ goal of optimizing practices for climate resilience.
+- **Tech Stack**: Sentinel-1 & Sentinel-2, NDVI, NDWI, Google Earth Engine, time-series analysis, SAR-Optical integration.
 ---
 
 ## 🔍 Vision
