@@ -1,2 +1,33 @@
-# Agri-Climate_Remote_Sensing_Projects
-A series of remote sensing projects focused on advancing climate-smart agriculture, sustainable land use, and greenhouse gas (GHG) reduction to support real-world agricultural monitoring and climate mitigation strategies.
+# 🌾📡 Agri-Climate Remote Sensing Projects 
+
+This repository features a collection of remote sensing and machine learning projects aimed at promoting climate-smart agriculture, sustainable land use, and reducing greenhouse gas (GHG) emissions. The projects utilize open satellite data, Python-based geospatial tools, and cloud platforms such as Google Earth Engine and many more to facilitate real-world agricultural monitoring and climate mitigation strategies.
+
+## 📁 Projects Overview
+
+### 1. SAR-Based Rice Crop Detection Automation
+- **Goal:** Automate the detection of rice crop areas using Sentinel-1 SAR time-series data.
+- **Impact:** Enables crop monitoring during cloudy monsoon seasons and supports methane emission proxy modeling by identifying flooded rice fields.
+- **Tech Stack:** Sentinel-1, GEE Python API, Radar backscatter analysis, Time-series thresholding.
+
+### 2. Land Degradation Detection using Machine Learning
+- **Goal:** Identify degraded vs. stable land using NDVI time-series and ML classification.
+- **Impact:** Supports land restoration, soil health tracking, and sustainable land management.
+- **Tech Stack:** GEE, geemap, scikit-learn, Sentinel-2 NDVI time-series.
+
+### 3. Crop Type Classification using Machine Learning
+- **Goal:** Classify crop types using temporal vegetation indices and ML models.
+- **Impact:** Informs precision agriculture, crop advisory services, and climate adaptation.
+- **Tech Stack:** Sentinel-2, NDVI profiles, scikit-learn, Random Forest, geopandas.
+
+### 4. Rooftop Solar Potential Mapping using PyQGIS
+- **Goal:** Extract solar-suitable rooftop areas from DSM data using PyQGIS automation.
+- **Impact:** Promotes urban renewable energy planning and carbon offset estimation.
+- **Tech Stack:** QGIS, PyQGIS, DSM, Model Builder, vector-raster analysis.
+
+---
+
+## 🔍 Vision
+
+These projects are aimed at supporting data-driven climate resilience in agriculture. The tools and models developed here can be scaled or customized to support government schemes, agri-tech startups, and research institutions working on sustainability, food security, and emissions reduction.
+
+Feel free to explore!
