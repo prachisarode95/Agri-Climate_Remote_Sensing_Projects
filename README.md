@@ -7,7 +7,7 @@ This repository features a collection of remote sensing and machine learning pro
 ### 1. SAR-Based Rice Crop Detection Automation (In progress)
 - **Goal:** Automate the detection of rice crop areas using Sentinel-1 SAR time-series data.
 - **Impact:** Enables crop monitoring during cloudy monsoon seasons and supports methane emission proxy modeling by identifying flooded rice fields.
-- **Tech Stack:** Sentinel-1, GEE Python API, Radar backscatter analysis, Time-series thresholding.
+- **Tech Stack:** Sentinel-1, GEE JavaScript API, Radar backscatter analysis, Time-series thresholding.
 
 ### 2. Land Degradation Detection using Machine Learning (Planned)
 - **Goal:** Identify degraded vs. stable land using NDVI time-series and ML classification.
